@@ -5,3 +5,4 @@ I mostly enjoy working on Frontend problems and learning about new ways to make 
 My main Goal at the moment is to finish TOP(www.theodinproject.com) and teach myself a solid foundation to build upon.
 If you think I might be a good fit for an intersting opportunity, or just have some advice in general, then don't mind reaching out to me.
 
+[image](https://user-images.githubusercontent.com/41907605/146516916-53fbc7c6-5b3b-416d-8d1b-444ac01dc6cb.png)
